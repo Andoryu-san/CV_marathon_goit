@@ -1,0 +1,258 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.sidebar-section {
+    background-color: #DFEEFF;
+}
+
+.app-wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 40px auto;
+    background-color: #fff;
+}
+
+.cv-section {
+    padding-left: 88px;
+    padding-top: 50px;
+    padding-right: 40px;
+    padding-bottom: 180px;
+}
+
+.about-me-title {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.about-me-name {
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: -10px;
+}
+
+.about-me-text {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 171.429% */
+    margin-top: -25px;
+}
+
+.projects-section {
+    margin-top: 40px;
+}
+
+.projects-title {
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.projects-list { 
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px; /* 171.429% */
+    margin-left: -20px;
+    margin-top: -10px;
+}
+
+.project-website {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 171.429% */
+    text-decoration-line: underline;
+}
+
+.project-category {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 171.429% */
+}
+
+.work-section {
+    margin-top: 40px;
+}
+
+.work-title {
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.first-company {
+    margin-top: -10px;
+}
+
+.work-position {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.company-type {
+    color: #6096FF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 10px;
+}
+
+.company-time {
+    color: #A8A8A8;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: -10px;
+}
+
+.company-list {
+    color: #595959;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 171.429% */
+    margin-left: -15px;
+    margin-top: -10px;
+}
+
+.education-section {
+    margin-top: 40px;
+}
+
+.education-title {
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;    
+}
+
+.first-edu {
+    margin-top: -10px;
+}
+
+.edu-title {
+    color: #6096FF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.edu-position {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: -10px;
+}
+
+.second-edu {
+    margin-top: -10px;
+}
+
+.edu-time {
+    color: #A8A8A8;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: -10px;
+}
+
+.cv-image {
+    margin-top: 40px;
+}
+
+.contact-section {
+    padding-left: 40px;
+}
+
+.contact-title {
+    color: #161D2A;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.contactitem {
+    color: #161D2A;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px; /* 171.429% */
+}
+
+.contactitem2 {
+    color: #4489FF;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 171.429% */
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.contact-element {
+    margin-top: -12px;
+}
+
+.tech-section {
+    padding-left: 40px;
+    margin-top: 40px;
+}
+
+.tech-title {
+    color: #161D2A;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.tech-list {
+    color: #161D2A;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 171.429% */
+    margin-top: -10px;
+    margin-left: -10px;
+}
+
+.soft-section {
+    padding-left: 40px;
+    margin-top: 40px;
+}
+
+.soft-title {
+    color: #161D2A;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.soft-list {
+    color: #161D2A;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 171.429% */
+    margin-top: -10px;
+    margin-left: -10px;
+}
